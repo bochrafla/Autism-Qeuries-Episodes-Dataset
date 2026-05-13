@@ -11,13 +11,12 @@ The dataset focuses on Arabic queries related to:
 - behavioral intervention
 - educational guidance
 - daily living skills
-- adolescent autism care
 
 Each episode follows a few-shot learning structure composed of:
 - **Support set**
 - **Query set**
 
-using a **4-way 4-shot** configuration.
+using a **4-way 6-shot** configuration.
 
 ---
 
@@ -68,12 +67,12 @@ Example categories include:
 ## Experimental Configuration
 
 The dataset was divided into:
-- Training episodes
-- Testing episodes
+- Training episodes 70 episodes
+- Testing episodes 20 episodes
 
 All experiments were conducted using:
 - **4-way classification**
-- **4-shot learning**
+- **6-shot learning**
 - Episodic meta-learning setup
 
 ---
@@ -81,11 +80,7 @@ All experiments were conducted using:
 ## Research Purpose
 
 This dataset was created for research purposes in:
-- Few-shot learning
-- Meta-learning
-- Arabic NLP
-- Intent classification
-- Conversational AI for autism support
+- Train and test meta-learning models
 
 ---
 
@@ -108,7 +103,3 @@ If you use this dataset in your research, please cite:
 This dataset is released for academic and research purposes only.
 
 ---
-
-## Keywords
-
-`few-shot-learning` `meta-learning` `arabic-nlp` `autism` `intent-classification` `episodic-learning` `dataset`
