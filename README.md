@@ -96,7 +96,7 @@ If you use this dataset in your research, please cite:
 ```bibtex
 @dataset{arabic_autism_fsl_dataset,
   title={Arabic Few-Shot Autism Dataset},
-  author={Your Name},
+  author={Boudefla Bouchra},
   year={2026}
 }
 ```
