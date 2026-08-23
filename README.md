@@ -16,7 +16,7 @@ Each episode follows a few-shot learning structure composed of:
 - **Support set**
 - **Query set**
 
-using a **4-way 6-shot** configuration.
+using a **4-way 4-shot** configuration.
 
 ---
 
